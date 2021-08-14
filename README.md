@@ -19,8 +19,8 @@ The following **bonus** features are implemented:
 - [X] Added placeholder texts for Username and Password on Login Screen
 
 ## Video Walkthrough
-## PLEASE GO HERE FOR FULL VIDEO LENGTH that includes Sign In: https://recordit.co/jgO4yCb7qe
+## PLEASE GO HERE FOR FULL VIDEO LENGTH that includes Sign In and Placeholder texts: https://recordit.co/jgO4yCb7qe
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://recordit.co/jgO4yCb7qe' title='Instagram Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/jgO4yCb7qe.gif' title='Instagram Video Walkthrough' width='' alt='Video Walkthrough' />
