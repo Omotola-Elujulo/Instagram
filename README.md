@@ -21,5 +21,6 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+Please go here for full video that includes Sign In: http://g.recordit.co/jgO4yCb7qe
 
 <img src='http://g.recordit.co/jgO4yCb7qe.gif' title='Instagram Video Walkthrough' width='' alt='Video Walkthrough' />
