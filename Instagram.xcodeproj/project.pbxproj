@@ -21,6 +21,7 @@
 		E355B07226C429A7001585EC /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E355B07126C429A7001585EC /* FeedViewController.swift */; };
 		E355B07426C4C69D001585EC /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E355B07326C4C69D001585EC /* CameraViewController.swift */; };
 		E355B07626C55EAF001585EC /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E355B07526C55EAF001585EC /* PostCell.swift */; };
+		E3B217C026D0A35B0031C0B4 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B217BF26D0A35B0031C0B4 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		E355B07126C429A7001585EC /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		E355B07326C4C69D001585EC /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		E355B07526C55EAF001585EC /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		E3B217BF26D0A35B0031C0B4 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		F5DDE93D398EB0B42C80DDA2 /* Pods-InstagramTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramTests.debug.xcconfig"; path = "Target Support Files/Pods-InstagramTests/Pods-InstagramTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -155,6 +157,7 @@
 				E355B07126C429A7001585EC /* FeedViewController.swift */,
 				E355B07326C4C69D001585EC /* CameraViewController.swift */,
 				E355B07526C55EAF001585EC /* PostCell.swift */,
+				E3B217BF26D0A35B0031C0B4 /* CommentCell.swift */,
 			);
 			path = Instagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				E355B07226C429A7001585EC /* FeedViewController.swift in Sources */,
 				E355B04226C404E3001585EC /* SceneDelegate.swift in Sources */,
 				E355B07626C55EAF001585EC /* PostCell.swift in Sources */,
+				E3B217C026D0A35B0031C0B4 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
